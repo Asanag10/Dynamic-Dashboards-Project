@@ -1,5 +1,6 @@
 Description:
 I successfully led a project to develop and implement dynamic dashboards to proactively analyze customer data and identify instances of sample kit abuse among distributors.
+![image](https://github.com/Asanag10/Dynamic-Dashboards-Project/assets/62454405/30a60d89-c0eb-48cf-8295-1b48834294b8)
 
 Outcome:
 The project achieved:
